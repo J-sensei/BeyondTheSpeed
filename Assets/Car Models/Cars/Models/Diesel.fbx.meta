@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 1dd2253f935e8d34fb7a2547e5b82e3c
+timeCreated: 1482194958
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plymouth_body
+    100004: Plymouth_wheel_FL
+    100006: Plymouth_wheel_FR
+    100008: Plymouth_wheel_RL
+    100010: Plymouth_wheel_RR
+    100012: CarShadow
+    100014: Plymouth_body_col
+    100016: Diesel_body
+    100018: Diesel_body_col
+    100020: Diesel_wheel_FL
+    100022: Diesel_wheel_FR
+    100024: Diesel_wheel_RL
+    100026: Diesel_wheel_RR
+    400000: //RootNode
+    400002: Plymouth_body
+    400004: Plymouth_wheel_FL
+    400006: Plymouth_wheel_FR
+    400008: Plymouth_wheel_RL
+    400010: Plymouth_wheel_RR
+    400012: CarShadow
+    400014: Plymouth_body_col
+    400016: Diesel_body
+    400018: Diesel_body_col
+    400020: Diesel_wheel_FL
+    400022: Diesel_wheel_FR
+    400024: Diesel_wheel_RL
+    400026: Diesel_wheel_RR
+    2300000: Plymouth_body
+    2300002: Plymouth_wheel_FL
+    2300004: Plymouth_wheel_FR
+    2300006: Plymouth_wheel_RL
+    2300008: Plymouth_wheel_RR
+    2300010: CarShadow
+    2300012: Plymouth_body_col
+    2300014: Diesel_body
+    2300016: Diesel_body_col
+    2300018: Diesel_wheel_FL
+    2300020: Diesel_wheel_FR
+    2300022: Diesel_wheel_RL
+    2300024: Diesel_wheel_RR
+    3300000: Plymouth_body
+    3300002: Plymouth_wheel_FL
+    3300004: Plymouth_wheel_FR
+    3300006: Plymouth_wheel_RL
+    3300008: Plymouth_wheel_RR
+    3300010: CarShadow
+    3300012: Plymouth_body_col
+    3300014: Diesel_body
+    3300016: Diesel_body_col
+    3300018: Diesel_wheel_FL
+    3300020: Diesel_wheel_FR
+    3300022: Diesel_wheel_RL
+    3300024: Diesel_wheel_RR
+    4300000: Plymouth_wheel_RR
+    4300002: Plymouth_wheel_FR
+    4300004: Plymouth_body
+    4300006: Plymouth_wheel_FL
+    4300008: Plymouth_wheel_RL
+    4300010: CarShadow
+    4300012: Plymouth_body_col
+    4300014: Diesel_body_col
+    4300016: Diesel_wheel_RR
+    4300018: Diesel_wheel_FR
+    4300020: Diesel_body
+    4300022: Diesel_wheel_FL
+    4300024: Diesel_wheel_RL
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

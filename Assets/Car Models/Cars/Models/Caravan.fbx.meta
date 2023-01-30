@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: f933e44bc1799bb4eacd40aac82e73d1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CarBody.028
+    100002: CarBody.031
+    100004: //RootNode
+    100006: Continental_body
+    100008: Continental_wheel_FL
+    100010: Continental_wheel_FR
+    100012: Continental_wheel_RL
+    100014: Continental_wheel_RR
+    100016: CarShadow
+    100018: Continental_wheelbrake_FL
+    100020: Continental_wheelbrake_FR
+    100022: Continental_wheelbrake_RL
+    100024: Continental_wheelbrake_RR
+    100026: Continental_body_col
+    100028: Caravan_body
+    100030: Caravan_body_col
+    100032: Caravan_wheel_FL
+    100034: Caravan_wheel_FR
+    100036: Caravan_wheel_RL
+    100038: Caravan_wheel_RR
+    100040: Caravan_wheelbrake_FL
+    100042: Caravan_wheelbrake_FR
+    100044: Caravan_wheelbrake_RL
+    100046: Caravan_wheelbrake_RR
+    400000: CarBody.028
+    400002: CarBody.031
+    400004: //RootNode
+    400006: Continental_body
+    400008: Continental_wheel_FL
+    400010: Continental_wheel_FR
+    400012: Continental_wheel_RL
+    400014: Continental_wheel_RR
+    400016: CarShadow
+    400018: Continental_wheelbrake_FL
+    400020: Continental_wheelbrake_FR
+    400022: Continental_wheelbrake_RL
+    400024: Continental_wheelbrake_RR
+    400026: Continental_body_col
+    400028: Caravan_body
+    400030: Caravan_body_col
+    400032: Caravan_wheel_FL
+    400034: Caravan_wheel_FR
+    400036: Caravan_wheel_RL
+    400038: Caravan_wheel_RR
+    400040: Caravan_wheelbrake_FL
+    400042: Caravan_wheelbrake_FR
+    400044: Caravan_wheelbrake_RL
+    400046: Caravan_wheelbrake_RR
+    2300000: CarBody.028
+    2300002: CarBody.031
+    2300004: Continental_body
+    2300006: Continental_wheel_FL
+    2300008: Continental_wheel_FR
+    2300010: Continental_wheel_RL
+    2300012: Continental_wheel_RR
+    2300014: CarShadow
+    2300016: Continental_wheelbrake_FL
+    2300018: Continental_wheelbrake_FR
+    2300020: Continental_wheelbrake_RL
+    2300022: Continental_wheelbrake_RR
+    2300024: Continental_body_col
+    2300026: Caravan_body
+    2300028: Caravan_body_col
+    2300030: Caravan_wheel_FL
+    2300032: Caravan_wheel_FR
+    2300034: Caravan_wheel_RL
+    2300036: Caravan_wheel_RR
+    2300038: Caravan_wheelbrake_FL
+    2300040: Caravan_wheelbrake_FR
+    2300042: Caravan_wheelbrake_RL
+    2300044: Caravan_wheelbrake_RR
+    3300000: CarBody.028
+    3300002: CarBody.031
+    3300004: Continental_body
+    3300006: Continental_wheel_FL
+    3300008: Continental_wheel_FR
+    3300010: Continental_wheel_RL
+    3300012: Continental_wheel_RR
+    3300014: CarShadow
+    3300016: Continental_wheelbrake_FL
+    3300018: Continental_wheelbrake_FR
+    3300020: Continental_wheelbrake_RL
+    3300022: Continental_wheelbrake_RR
+    3300024: Continental_body_col
+    3300026: Caravan_body
+    3300028: Caravan_body_col
+    3300030: Caravan_wheel_FL
+    3300032: Caravan_wheel_FR
+    3300034: Caravan_wheel_RL
+    3300036: Caravan_wheel_RR
+    3300038: Caravan_wheelbrake_FL
+    3300040: Caravan_wheelbrake_FR
+    3300042: Caravan_wheelbrake_RL
+    3300044: Caravan_wheelbrake_RR
+    4300000: Continental_wheel_FR
+    4300002: Continental_wheel_RR
+    4300004: CarBody.028
+    4300006: CarBody.031
+    4300008: Continental_body
+    4300010: Continental_wheel_RL
+    4300012: Continental_wheel_FL
+    4300014: CarShadow
+    4300016: Continental_wheelbrake_FR
+    4300018: Continental_wheelbrake_RR
+    4300020: Continental_wheelbrake_RL
+    4300022: Continental_wheelbrake_FL
+    4300024: Continental_body_col
+    4300026: Caravan_body_col
+    4300028: Caravan_wheel_FR
+    4300030: Caravan_wheelbrake_FR
+    4300032: Caravan_wheel_RR
+    4300034: Caravan_wheelbrake_RR
+    4300036: Caravan_body
+    4300038: Caravan_wheel_RL
+    4300040: Caravan_wheelbrake_RL
+    4300042: Caravan_wheel_FL
+    4300044: Caravan_wheelbrake_FL
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CarShadow
+    second: {fileID: 2100000, guid: b6d2b0b95bd4f1f41bc92c122fed5278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_base
+    second: {fileID: 2100000, guid: e821f0f30c9fc8f459051743b56b399f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_body
+    second: {fileID: 2100000, guid: dd3694449a9da4544978fc0b19067198, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_body1
+    second: {fileID: 2100000, guid: 512cd23c9382ee742aed258b425f6b61, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_details
+    second: {fileID: 2100000, guid: 49aacf3c66a94cf4c94b579451675db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_glass
+    second: {fileID: 2100000, guid: 7bd2e196a9ecb5c4cb5f19284926ad95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_interior
+    second: {fileID: 2100000, guid: 3aac017442b5c764a9a38d880567b7af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_lights
+    second: {fileID: 2100000, guid: a5ccf0b3f3c30cb46bd3cda084fdb478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_tyre
+    second: {fileID: 2100000, guid: 70367f077dd88cc4cabf9e09855a2311, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caravan_wheel
+    second: {fileID: 2100000, guid: 4101b241a22635940ba4e8fd35b15d66, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

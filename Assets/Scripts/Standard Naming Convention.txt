@@ -1,0 +1,20 @@
+This text file is used to standardise naming convention of script in this project ot increase the readability.
+
+Camel Case = Making the first word lowercase, then capitalize the first letter of each word that follows
+Pascal Case = Similar to Camel Case but first letter will be capital letter.
+
+Constant Field -> Capital Letters
+Serialize Field -> Pascal Case
+Private Field -> Camel Case
+Public Field -> Pascal Case (Avoid using this, use public property instead)
+Public Property -> Pascal Case (Recommended using this to make public variables)
+
+Namespace
+- BeyondTheSpeed
+	- AI
+	- Camera
+	- Car
+	- Item
+	- Level
+	- SpeedTrap
+	- UI
